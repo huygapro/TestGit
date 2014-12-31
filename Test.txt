@@ -1,2 +1,2 @@
 A, master change
-B
+B, master
