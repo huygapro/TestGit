@@ -1,4 +1,4 @@
 First line, local edit
 Line HuyNc 6
-Add b, local edit
+Add b, master edit
 Master Add line, Removed line Add a
